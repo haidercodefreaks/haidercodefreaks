@@ -9,7 +9,7 @@ In this rapidly evolving industry, my commitment is anchored in continuous learn
 ## 🚀 About Me
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,express,aws,nest,gcp,git,docker,jquery,mysql,nginx,mongodb,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,tailwind,python,fastapi,express,aws,nest,gcp,git,docker,jquery,mysql,nginx,mongodb,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
