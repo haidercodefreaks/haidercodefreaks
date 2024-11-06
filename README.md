@@ -1,45 +1,41 @@
-<div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-</div>
+# Hi, I'm Haider! 👋
 
-###
+Since January 2024, my focus has been on elevating the standard of full-stack development, particularly through the design of responsive single-page applications and robust APIs. Our team's proficiency in MongoDB, Express.js, React.js, NestJS, Amazon Web Services, MySQL and Node.js has enabled us to deliver scalable solutions that enhance user interactions.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/haiderzamanyzi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://haideryzi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=youtube&label=&color=FCFCFD&logoColor=6942C0&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
+In this rapidly evolving industry, my commitment is anchored in continuous learning and adaptation, ensuring that our web solutions remain innovative and high-performing. It's this drive to push technological boundaries that defines our success and fuels our collaborative spirit.
 
-###
+![haiderzamanusafxay's Stats](https://github-readme-stats.vercel.app/api?username=haiderzamanusafxay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<h1 align="center">Hi, Haider Here 👋</h1>
+## 🚀 About Me
 
-###
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,express,aws,nest,gcp,git,docker,jquery,mysql,nginx,mongodb,)](https://skillicons.dev)
 
-<div align="center">
-  <img height="200" src="https://usama7365.github.io/Portfolio/assets/images/profile-pic.jpg"  />
-</div>
+## 🌱 Currently Exploring
 
-###
+- 🚀 Learning Full Stack Web Development
+  - Building server-side applications with Express, nest, mysql, mongodb etc.
+  - Diving into the DevOps world.
 
-<h3 align="left">👩‍💻About Me</h3>
+ ## 🏆 Achievements
 
-###
-
-<p align="left">Here are some Intro about me:<br><br>- 🔭 I’m currently working as a Full Stack developer<br>- 🌱 I’m currently learning Devops.<br>- 👯 I’m looking to collaborate on Contribute to Open Source.<br>- 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>- 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions.👨🏻‍💻✅</p>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=haidercodefreaks&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
-</div>
+- 🌟 Otained certification: Legacy JavaScript Algorithms and Data Structures from freeCodeCamp!
 
 
-###
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-###
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
